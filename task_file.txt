@@ -1,0 +1,4 @@
+test file start
+0123456789 - digitals
+qwerty - letters
+test file end
